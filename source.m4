@@ -1,0 +1,7 @@
+LD(X)
+ADD(Y)
+STO(Z)
+OUT(Z)
+word(X, 7)
+word(Y, 17)
+word(Z, 0)
